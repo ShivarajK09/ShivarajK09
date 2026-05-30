@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Shivaraj Khot 👋
 
-<!--
-**ShivarajK09/ShivarajK09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 MBA Candidate (Operations & Business Analytics) at PES University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📦 Supply Chain & Procurement Professional with 4+ years of experience in:
+
+* Inventory Management
+* Procurement Coordination
+* Material Planning
+* Vendor Management
+* Supply Chain Operations
+
+📊 Passionate about:
+
+* Supply Chain Analytics
+* Business Analytics
+* Data-Driven Decision Making
+* Process Improvement
+* Procurement Optimization
+
+## Technical Skills
+
+* Python
+* SQL
+* SAP
+* Power BI
+* Excel
+* Pandas
+* Matplotlib
+* Plotly
+
+## Featured Projects
+
+### Customer Churn Analysis
+
+Interactive customer churn and membership expiry analysis using Python, Pandas, and Plotly.
+
+### Amazon Supply Chain Analysis
+
+Supply chain analytics project focused on delivery performance, warehouse efficiency, demand analysis, and logistics insights using SQL and Python.
+
+## Education
+
+**MBA – Operations & Business Analytics**
+PES University, Bangalore
+
+**B.Sc.**
+Rani Channamma University
+
+## Connect With Me
+
+📧 Email: [2000shivarajk@gmail.com](mailto:2000shivarajk@gmail.com)
+
+🔗 LinkedIn: Add your LinkedIn profile link here
+
+## Career Interests
+
+Supply Chain Management | Procurement | Operations Analytics | Business Analytics | Logistics | Inventory Optimization
