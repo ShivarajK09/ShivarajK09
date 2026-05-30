@@ -53,7 +53,7 @@ Rani Channamma University
 
 📧 Email: [2000shivarajk@gmail.com](mailto:2000shivarajk@gmail.com)
 
-🔗 LinkedIn: Add your LinkedIn profile link here
+🔗 LinkedIn: linkedin.com/in/shivaraj-r-khot-81a784242
 
 ## Career Interests
 
